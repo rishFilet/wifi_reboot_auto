@@ -1,0 +1,7 @@
+---
+# Gateway login
+admin:
+    username: admin
+    password: admin
+    usertype: admin
+...
